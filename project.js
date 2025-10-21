@@ -3,10 +3,10 @@ function christmasCountdown() {
     const now = new Date();
     const diff = christmasDate - now;
 
-    const msInSecond = 1000; // скільки мілісекунд в секунді - 1000
-    const msInMinute = 60 * 1000; // скільки мілісекунд в хвилині - 60 000
-    const msInHour = 60 * 60 * 1000; // скільки мілісекунд в годині - 3 600 000
-    const msInDay = 24 * 60 * 60 * 1000; // скільки мілісекунд в добі - 86 400 000
+    const msInSecond = 1000; 
+    const msInMinute = 60 * 1000; 
+    const msInHour = 60 * 60 * 1000; 
+    const msInDay = 24 * 60 * 60 * 1000; 
 
     const displayDay = Math.floor(diff/msInDay);
     document.querySelector(".days").textContent = displayDay;
