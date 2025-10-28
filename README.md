@@ -78,9 +78,7 @@
 
 ## 👩‍💻 Author
 
-**Nataliia Litskevych**  
-🎄 Frontend Developer | HTML • CSS • JavaScript  
-🌐 [Live Project](https://christmas-countdown-nataliia-litskevy.netlify.app/)  
+### © 2025 Nataliia Litskevych
 
 ---
 
